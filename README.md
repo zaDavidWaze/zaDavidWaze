@@ -1,6 +1,8 @@
-  **Hi, my name is David, and i'm currently a Junior Developer**
+  **Olá, meu nome é David, e atualmente sou um Dev Junior**
   
-  ***I'm 19yo and actually studing at FATEC Itapira, a tecnolog highschool in the 3th***
+  ***Tenho 19 anos, e atualmente cursando o terceiro semestre da 
+  faculdade FATEC, de (DSM)
+  Desenvolvimento de Software Multiplataforma***
   
 
 -  I’m currently learning develop software's
