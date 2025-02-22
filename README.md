@@ -1,5 +1,5 @@
   **Hi, my name is David, and i'm currently a Junior Developer**
-  ***I'm 19yo and actually studing at FATEC Itapira, a tecnolog highschool
+  ***I'm 19yo and actually studing at FATEC Itapira, a tecnolog highschool in the 3th***
   
 
 -  I’m currently learning develop software's
